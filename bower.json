@@ -1,12 +1,12 @@
 {
-  "name": "angular-d3-wordcloud",
+  "name": "angular-d3-word-cloud",
   "version": "1.0.0",
-  "homepage": "https://github.com/rudijs/angular-d3-wordcloud",
+  "homepage": "https://github.com/rudijs/angular-d3-word-cloud",
   "authors": [
     "Rudi Starcevic <ooly.me@gmail.com>"
   ],
-  "description": "AngularJS 1.x D3 Wordcloud Directive",
-  "main": "d3_wordcloud.js",
+  "description": "AngularJS 1.x D3 Word Cloud Directive",
+  "main": "d3_word_cloud.js",
   "moduleType": [
     "globals"
   ],
